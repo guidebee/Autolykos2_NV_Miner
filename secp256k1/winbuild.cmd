@@ -1,5 +1,5 @@
-SET "OPENSSL_DIR=C:\openssl102"
-SET "LIBCURL_DIR=C:\Users\mam0nt\curl"
+SET "OPENSSL_DIR=C:\OpenSSL-Win64"
+SET "LIBCURL_DIR=C:\Workspace\vcpkg\installed\x64-windows"
 SET "CUDA_COMPUTE_ARCH=61"
 SET "BLOCK_DIM=64"
 SET "WORKSPACE=0x800000"
